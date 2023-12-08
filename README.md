@@ -6,7 +6,7 @@
 - Capitalising the first letter of the status and category fields.
 - Making it a little prettier
 - Using TypeScript (but time)
-
+- Get rid of some of the default react stuff I'm not using.
 
 # Getting Started with Create React App
 
