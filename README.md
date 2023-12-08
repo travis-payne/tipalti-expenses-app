@@ -1,3 +1,13 @@
+
+# Things to add/change
+- A few imports I'm not using I could get rid of
+- Implementing some user feedback if the API call errors out, a pop up modal or something
+- Sorting function on the date field
+- Capitalising the first letter of the status and category fields.
+- Making it a little prettier
+- Using TypeScript (but time)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
