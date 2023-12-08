@@ -1,0 +1,23 @@
+.filter-container {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+    width:100%;
+  }
+  
+  .filter-container label {
+    flex: 0 0 120px;
+    text-align: right;
+    margin-right: 10px; 
+  }
+  
+  .filter-container input[type="text"],
+  .filter-container select {
+    flex: 1; 
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
