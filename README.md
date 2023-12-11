@@ -9,6 +9,8 @@
 - Get rid of some of the default react stuff I'm not using.
 - Could consider how we deal with null values coming from the API
 - Some form of unit testing
+- Moving the other CSS files to the css folder
+- Making the filter function a bit cleaner, feels like I'm repeating myself a bit
 
 # Getting Started with Create React App
 
