@@ -7,6 +7,8 @@
 - Making it a little prettier
 - Using TypeScript (but time)
 - Get rid of some of the default react stuff I'm not using.
+- Could consider how we deal with null values coming from the API
+- Some form of unit testing
 
 # Getting Started with Create React App
 
